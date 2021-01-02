@@ -1,0 +1,4 @@
+@charset "UTF-8";h1{color:#00f;font-style:50px;display:block;width:250px;height:200px;background:green}h2{color:#00f}.blok{background-color:#000}.blok h3{color:#00f}.blok_color{background:#00f}.blok_color .btn{display:block;width:250px;height:200px;background:green}.blok .blok_color{display:inline-block;width:600px;height:300px;background:#00f;color:#00f}
+.block{
+  background:#000;
+}
